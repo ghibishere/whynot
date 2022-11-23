@@ -1,0 +1,10 @@
+-minimal 10 foto produk tanpa background
+ orientasi foto sama
+
+-gambar pendukung
+ potrait
+
+-produk andalan
+ landscape
+
+- nama toko: SchoolTool
